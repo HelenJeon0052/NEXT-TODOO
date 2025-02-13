@@ -1,0 +1,10 @@
+.table {
+}
+
+.table th {
+    text-transform:capitalize;
+}
+
+.table tbody > tr {
+    color: rgb(45, 46, 54) !important;
+}
